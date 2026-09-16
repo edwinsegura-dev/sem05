@@ -1,3 +1,10 @@
+## Indice
+- [Titulo](#titulo-importante)
+- [Funciones](#funciones)
+- [Tablas](#creando-tablas)
+- [Diagrama](#mermaid-diagramas)
+- [DiagramaTecsup](#tecsup-diagramas)
+
 ## Titulo Importante
 Me encuentro aprendiendo *Markdown* en las clasess del profesor Luis Pallin. .
 
